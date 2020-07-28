@@ -1,6 +1,6 @@
-* #Table of Content
+* # Table of Content
     * AIM
-    * Project Discripsion 
+    * Project Description 
     * Skill Used
     * Demo
     * Conclusion
