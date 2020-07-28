@@ -19,5 +19,8 @@
       
 * # Demo:
     ![Demo_Wind_Prediction](Demo_Wind_Prediction.png)
+    
+* # User:
+    [Aman Bahuguna](https://github.com/SmartPracticeschool/llSPS-INT-3437-Predicting-the-Energy-Output-of-Wind-Turbine-Based-on-Weather-Conditions-Watson-Auto-/edit/master/README.md)
 
       
