@@ -18,5 +18,6 @@
       Python, Python For Data Analysis, Machine Learning, IBM Cloud, IBM Watson.
       
 * # Demo:
+    ![Demo_Wind_Prediction](Demo_Wind_Prediction.png)
 
       
