@@ -10,7 +10,10 @@
 * # AIM:
     Predicting The Energy Output Of Wind Turbine Based On Weather Conditions Watson Auto AI
     
+    
 * # Process Flow - Flowchart:
+    ![FlowChart_WindPrediction](FlowChart_WindPrediction.png)
+    ![Data_Set_FlowChart](Data_Set_FlowChart.png)
       
     
 * # Project Description:
