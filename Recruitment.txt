@@ -1,0 +1,6 @@
+ Pyhton 3.8
+ sklearn==0.0
+ Web Framwork (Flask)
+ IBM watson services
+ IBM Assistant
+ IBM cloud
