@@ -38,7 +38,7 @@
       
       
 * ## Demo:
-    ![Demo_Wind_Prediction](Demo_Wind_Prediction.png)
+    ![Demo_Wind_Prediction (1)](Demo_Wind_Prediction (1).png)
     
     
 * ## Conclusion
